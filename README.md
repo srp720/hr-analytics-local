@@ -1,11 +1,11 @@
 # Installation Guide:
 <br>
 1. Install Anaconda Navigator on your system.
-
+<br>
 2. Clone the repo 
 https://github.com/srp720/hr-analytics-local.git
 on C:\Users\user.name\Hackathon pat
-
+<br>
 3. Run Anaconda Navigator & Launch Jupyter Notebook, it'll launch in the browser window. Browser for the Hackathon/hr-analytics-local/hr-analytics.ipynb and run the file.
  
 # HR Analytics
