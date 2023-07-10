@@ -1,3 +1,13 @@
+# Installation Guide:
+<br>
+1. Install Anaconda Navigator on your system.
+
+2. Clone the repo 
+https://github.com/srp720/hr-analytics-local.git
+on C:\Users\user.name\Hackathon pat
+
+3. Run Anaconda Navigator & Launch Jupyter Notebook, it'll launch in the browser window. Browser for the Hackathon/hr-analytics-local/hr-analytics.ipynb and run the file.
+ 
 # HR Analytics
 <br>
 This repo contains the HR Analytics project as part of my data science portfolio. The objective is to predict employee attrition using a HR dataset from IBM Watson Analytics Sample Data - [HR Employee Attrition & Performance](https://www.ibm.com/communities/analytics/watson-analytics-blog/hr-employee-attrition/) which contains employee data for 1,470 employees with various information about the employees. 
